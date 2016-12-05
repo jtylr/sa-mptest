@@ -9,13 +9,12 @@
 public OnFilterScriptInit()
 {
 	print("\n--------------------------------------");
-	print(" Blank Filterscript test");
+	print(" Blank Filterscript test 2");
 	print("--------------------------------------\n");
 	return 1;
+	some glaring error!
 }
 
-public OnFilterScriptExit()
-{
 	return 1;
 }
 
