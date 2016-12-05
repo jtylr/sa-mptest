@@ -9,7 +9,7 @@
 public OnFilterScriptInit()
 {
 	print("\n--------------------------------------");
-	print(" Blank Filterscript by your name here");
+	print(" Blank Filterscript test");
 	print("--------------------------------------\n");
 	return 1;
 }
