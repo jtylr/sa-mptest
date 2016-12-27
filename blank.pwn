@@ -12,7 +12,6 @@ public OnFilterScriptInit()
 	print(" Blank Filterscript test 2");
 	print("--------------------------------------\n");
 	return 1;
-	some glaring error!
 }
 
 	return 1;
