@@ -13,6 +13,7 @@ public OnFilterScriptInit()
 	print("--------------------------------------\n");
 	return 1;
 	some glaring error!
+	right here
 }
 
 	return 1;
