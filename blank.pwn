@@ -9,7 +9,7 @@
 public OnFilterScriptInit()
 {
 	print("\n--------------------------------------");
-	print(" Blank Filterscript test 2");
+	print(" Branches are fun");
 	print("--------------------------------------\n");
 	return 1;
 }
