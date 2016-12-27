@@ -12,6 +12,7 @@ public OnFilterScriptInit()
 	print(" Blank Filterscript test 2");
 	print("--------------------------------------\n");
 	return 1;
+	this is a fuck up;
 }
 
 	return 1;
